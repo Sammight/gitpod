@@ -1,1 +1,1 @@
-FROM centos:centos7
+FROM archlinux:20191006
